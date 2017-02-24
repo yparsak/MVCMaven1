@@ -40,9 +40,9 @@ Test: /MVCMaven1/
 
 4. Create new "Spring Bean Configuration File" under WEB-INF/
 
-  - WEB-INF/webmvc-dispatcher-servlet.xml
+  - WEB-INF/dispatcher-servlet.xml
   
-5. open webmvc-dispatcher-servlet, and select "Namespaces"
+5. open dispatcher-servlet, and select "Namespaces"
 
   - beans
   - context
